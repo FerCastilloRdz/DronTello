@@ -1,5 +1,5 @@
 # DronTello Demostraciones de vuelo
-# Univercidad de Guanajuato FIMEE-2023
+# Universidad de Guanajuato FIMEE-2023
 
 Codigo Creado por; Fernando Castillo Rodriguez, Joetan Bernardo Arfaxad Saldaña Sanchez, Victor Vera Garcia.
 
