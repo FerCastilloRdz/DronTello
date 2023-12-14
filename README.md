@@ -1,19 +1,15 @@
 # DronTello Demostraciones de vuelo
 # Univercidad de Guanajuato FIMEE-2023
 
-# Codigo Creado por; Fernando Castillo Rodriguez, Joetan Bernardo Arfaxad Saldaña Sanchez, Victor Vera Garcia.
+Codigo Creado por; Fernando Castillo Rodriguez, Joetan Bernardo Arfaxad Saldaña Sanchez, Victor Vera Garcia.
 
-# Codigo Bateria, este código se conecta al dron Tello, obtiene y muestra en la consola el nivel actual de la batería del dron. 
+° Codigo Bateria, este código se conecta al dron Tello, obtiene y muestra en la consola el nivel actual de la batería del dron. 
 
-# Codigo Control, crea una interfaz gráfica simple para controlar un dron Tello, permitiendo despegar, aterrizar y realizar movimientos específicos en forma de cuadrado, triángulo y octágono. 
-# La interfaz utiliza la biblioteca Tkinter, mientras que la interacción con el dron se realiza mediante la biblioteca djitellopy.
+° Codigo Control, crea una interfaz gráfica simple para controlar un dron Tello, permitiendo despegar, aterrizar y realizar movimientos específicos en forma de cuadrado, triángulo y octágono. La interfaz utiliza la biblioteca Tkinter, mientras que la interacción con el dron se realiza mediante la biblioteca djitellopy.
 
-# codigo Elevacion, el código conecta y controla un dron Tello para realizar un patrón cuadrado, seguido de una elevación, un patrón triángulo, otra elevación, y finalmente un patrón octágono, concluyendo con el aterrizaje del dron. 
-# Las pausas (time.sleep()) se utilizan para permitir que el dron complete cada movimiento antes de realizar el siguiente.
+° Codigo Elevacion, el código conecta y controla un dron Tello para realizar un patrón cuadrado, seguido de una elevación, un patrón triángulo, otra elevación, y finalmente un patrón octágono, concluyendo con el aterrizaje del dron. Las pausas (time.sleep()) se utilizan para permitir que el dron complete cada movimiento antes de realizar el siguiente.
 
-##--------------------------------------------------------------------------------------------------------------------------##
-
-Proyecto de Control de Dron Tello con Tkinter y djitellopy
+# Proyecto de Control de Dron Tello con Tkinter y djitellopy
 
 Introducción:
 Este proyecto tiene como objetivo el control de un dron Tello mediante una interfaz gráfica implementada en Tkinter. Utiliza la biblioteca `djitellopy` para interactuar con el dron y realizar movimientos específicos, creando patrones geométricos.
