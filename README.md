@@ -1,7 +1,7 @@
 # DronTello Demostraciones de vuelo
 # Universidad de Guanajuato FIMEE-2023
 
-Codigo Creado por; Fernando Castillo Rodriguez, Joetan Bernardo Arfaxad Saldaña Sanchez, Victor Vera Garcia.
+Codigo Creado por; Fernando Castillo Rodriguez.
 
 ° Codigo Bateria, este código se conecta al dron Tello, obtiene y muestra en la consola el nivel actual de la batería del dron. 
 
